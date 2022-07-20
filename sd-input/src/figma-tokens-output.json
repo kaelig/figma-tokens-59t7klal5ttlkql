@@ -94,7 +94,7 @@
     "button": {
       "primary": {
         "background": {
-          "value": "{core.colors.primary.500}",
+          "value": "#d72a2a",
           "type": "color"
         },
         "color": {
