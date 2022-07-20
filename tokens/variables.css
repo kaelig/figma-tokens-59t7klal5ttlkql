@@ -3,7 +3,7 @@
  */
 
 :root {
-  --figma-core-core-colors-primary-50: #ecfdf5;
+  --figma-core-core-colors-primary-50: rgba(236,253,245,0.7);
   --figma-core-core-colors-primary-100: #d1fae5;
   --figma-core-core-colors-primary-200: #a7f3d0;
   --figma-core-core-colors-primary-300: #6ee7b7;
@@ -23,7 +23,7 @@
   --figma-core-core-colors-grey-700: #374151;
   --figma-core-core-colors-grey-800: #1f2937;
   --figma-core-core-colors-grey-900: #111827;
-  --figma-core-colors-primary-50: #ecfdf5;
+  --figma-core-colors-primary-50: rgba(236,253,245,0.7);
   --figma-core-colors-primary-100: #d1fae5;
   --figma-core-colors-primary-200: #a7f3d0;
   --figma-core-colors-primary-300: #6ee7b7;
