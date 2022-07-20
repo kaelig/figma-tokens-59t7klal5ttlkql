@@ -4,8 +4,9 @@
       "colors": {
         "primary": {
           "50": {
-            "value": "#ecfdf5",
-            "type": "color"
+            "value": "rgba(236,253,245,0.7)",
+            "type": "color",
+            "description": "Deopacify"
           },
           "100": {
             "value": "#d1fae5",
@@ -93,7 +94,7 @@
     "button": {
       "primary": {
         "background": {
-          "value": "{core.colors.primary.500}",
+          "value": "#d72a2a",
           "type": "color"
         },
         "color": {

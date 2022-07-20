@@ -3,7 +3,7 @@
  */
 
 :root {
-  --figma-core-core-colors-primary-50: #ecfdf5;
+  --figma-core-core-colors-primary-50: rgba(236,253,245,0.7);
   --figma-core-core-colors-primary-100: #d1fae5;
   --figma-core-core-colors-primary-200: #a7f3d0;
   --figma-core-core-colors-primary-300: #6ee7b7;
@@ -23,7 +23,7 @@
   --figma-core-core-colors-grey-700: #374151;
   --figma-core-core-colors-grey-800: #1f2937;
   --figma-core-core-colors-grey-900: #111827;
-  --figma-core-colors-primary-50: #ecfdf5;
+  --figma-core-colors-primary-50: rgba(236,253,245,0.7);
   --figma-core-colors-primary-100: #d1fae5;
   --figma-core-colors-primary-200: #a7f3d0;
   --figma-core-colors-primary-300: #6ee7b7;
@@ -43,7 +43,7 @@
   --figma-core-colors-grey-700: #374151;
   --figma-core-colors-grey-800: #1f2937;
   --figma-core-colors-grey-900: #111827;
-  --figma-button-button-primary-background: #10b981;
+  --figma-button-button-primary-background: #d72a2a;
   --figma-button-button-primary-color: #f9fafb;
   --figma-button-button-primary-hover-background: #34d399;
   --figma-button-button-primary-active-shadow: #064e3b;
@@ -52,7 +52,7 @@
   --figma-button-button-outline-background: rgba(0,0,0,0);
   --figma-button-button-outline-border-color: #f9fafb;
   --figma-button-button-outline-hover-background: rgba(255,255,255,0.1);
-  --figma-button-primary-background: #10b981;
+  --figma-button-primary-background: #d72a2a;
   --figma-button-primary-color: #f9fafb;
   --figma-button-primary-hover-background: #34d399;
   --figma-button-primary-active-shadow: #064e3b;
